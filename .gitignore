@@ -229,3 +229,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.sln
+*.config
+WindowsFormsApplication1/ImageCrawler.csproj
